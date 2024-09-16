@@ -1,0 +1,53 @@
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+
+# Executable files
+*.out
+*.exe
+*.elf
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.dll
+*.so
+*.dylib
+
+# Debugging files
+*.dSYM/
+*.stackdump
+*.core
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# IDE and editor settings (optional, based on your editor)
+.vscode/
+*.code-workspace
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# CMake files (if using CMake)
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+compile_commands.json
+CTestTestfile.cmake
+*.cmake
+
+# Auto-generated documentation
+doc/
+
+# Build directories (optional)
+build/
+dist/
